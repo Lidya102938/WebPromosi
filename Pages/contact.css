@@ -1,0 +1,54 @@
+* {
+    font-family: "Times New Roman", Times, serif;
+    box-sizing: border-box;
+    margin: 0;
+    margin-top: 0px;
+  }
+  
+  nav {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -300px;
+  }
+
+  a{
+      text-decoration: none;
+  }
+  
+  
+  .nav {
+    color: white;
+    font-size: 25px;
+    
+  }
+  
+  .kiri {
+    margin-left: 10px;
+    font-size: 30px;
+  }
+  
+  .kanan {
+    margin-top: 10px;
+    margin-right: 30px;
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+  }
+  
+  img{
+      margin-left: 250px;
+      margin-top: 300px;
+      height: 200px;
+  }
+  
+  .contact{
+      margin-left: 530px;
+      margin-top: -180px;
+  }
+
+  .con{
+      height: 50px;
+      margin-top: 190px;
+      margin-left: 5px;
+  }

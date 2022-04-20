@@ -1,0 +1,316 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  box-sizing: border-box;
+  margin: 0;
+  margin-top: 0px;
+}
+
+nav {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.nav {
+  color: white;
+  font-size: 25px;
+}
+
+.kiri {
+  margin-left: 10px;
+  font-size: 30px;
+}
+
+.kanan {
+  margin-top: 10px;
+  margin-right: 30px;
+  display: flex;
+  width: 300px;
+  justify-content: space-between;
+}
+
+.banner {
+  width: 1343px;
+  height: 650px;
+  margin-left: 0px;
+  margin-top: -58px;
+  background-repeat: no-repeat;
+
+  background: url("../Asset/kaca.jpg");
+}
+
+.kata {
+  text-align: center;
+  margin-top: -350px;
+  color: white;
+  font-size: 29px;
+}
+
+p {
+  font-size: 20px;
+}
+.Makanan {
+  margin-top: 310px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.line {
+  margin-left: 380px;
+  width: 600px;
+  border-bottom: 1px dashed black;
+}
+
+.fav {
+  display: flex;
+}
+
+.card {
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-right: 920px;
+  border: 2px solid black;
+}
+
+.img {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 15px;
+  height: 200px;
+  width: 280px;
+  background-image: url(../Asset/keripik.jpg);
+}
+
+.kaca {
+  margin-top: 15px;
+  margin-left: 70px;
+}
+
+.detail {
+  margin-top: 10px;
+  margin-left: 35px;
+  margin-right: 30px;
+}
+
+.satu {
+  margin-left: 110px;
+  margin-top: 70px;
+  margin-bottom: 20px;
+  width: 30%;
+  height: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+.card2 {
+  margin-top: 30px;
+  margin-left: -800px;
+  margin-right: 920px;
+  border: 2px solid black;
+}
+
+.foto {
+  margin-left: 20px;
+  margin-top: 15px;
+  margin-right: 20px;
+  height: 200px;
+  width: 280px;
+  background-image: url(../Asset/pisang.jpg);
+}
+
+.pisang {
+  margin-left: 70px;
+  margin-top: 10px;
+}
+
+.dua {
+  margin-left: 120px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  width: 30%;
+  height: 30px;
+}
+
+.card3 {
+  margin-top: 30px;
+  margin-left: -800px;
+  margin-right: 920px;
+  border: 2px solid black;
+}
+
+.makroni {
+  margin-left: 45px;
+}
+
+.gambar {
+  margin-left: 20px;
+  margin-top: 15px;
+  margin-right: 20px;
+  height: 200px;
+  width: 280px;
+  background-image: url(../Asset/makroni.jpg);
+}
+
+.tiga {
+  margin-left: 120px;
+  margin-top: 63px;
+  margin-bottom: 20px;
+  width: 30%;
+  height: 30px;
+}
+
+.lain {
+  margin-top: 60px;
+  margin-left: 650px;
+  font-size: 30px;
+}
+
+.titik {
+  margin-left: 580px;
+  width: 250px;
+  border-bottom: 1px dashed black;
+}
+
+.singkong {
+  margin-top: 40px;
+  margin-left: 50px;
+  height: 150px;
+  width: 200px;
+  border: 2px solid black;
+}
+
+.sk {
+  margin-left: 300px;
+  margin-top: -150px;
+}
+
+.ttk {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 270px;
+  width: 400px;
+  border-bottom: 3px solid black;
+}
+
+.desk {
+  margin-left: 270px;
+  margin-right: 700px;
+}
+
+.emping {
+  margin-top: 60px;
+  margin-left: 1125px;
+  height: 150px;
+  width: 200px;
+  border: 2px solid black;
+  background-image: url(../Asset/emping.jpg);
+}
+
+.em {
+  margin-top: -150px;
+  margin-left: 930px;
+}
+
+.ttk2 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 710px;
+  width: 400px;
+  border-bottom: 3px solid black;
+}
+
+.desk2 {
+  margin-left: 720px;
+  margin-right: 230px;
+}
+
+.basreng {
+  margin-top: 40px;
+  margin-left: 50px;
+  height: 150px;
+  width: 200px;
+  border: 2px solid black;
+  background-image: url(../Asset/Basreng.jpeg);
+}
+
+.br {
+  margin-left: 300px;
+  margin-top: -150px;
+}
+
+.ttk3 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 270px;
+  width: 400px;
+  border-bottom: 3px solid black;
+}
+
+.desk3 {
+  margin-left: 270px;
+  margin-right: 700px;
+}
+
+.Astor {
+  margin-top: 50px;
+  margin-left: 1125px;
+  height: 200px;
+  width: 150px;
+  border: 2px solid black;
+  background-image: url(../Asset/astor.jpeg);
+}
+
+.ar {
+  margin-top: -150px;
+  margin-left: 930px;
+}
+
+.ttk4 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 710px;
+  width: 400px;
+  border-bottom: 3px solid black;
+}
+
+.desk4 {
+  margin-left: 720px;
+  margin-right: 230px;
+}
+
+.Kg {
+  margin-top: 40px;
+  margin-left: 50px;
+  height: 150px;
+  width: 200px;
+  border: 2px solid black;
+  background-image: url(../Asset/kg.png);
+}
+
+.kg {
+  margin-left: 300px;
+  margin-top: -150px;
+}
+
+.ttk5 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 270px;
+  width: 400px;
+  border-bottom: 3px solid black;
+}
+
+.desk5 {
+  margin-left: 270px;
+  margin-right: 700px;
+}
+
+.cr {
+  margin-top: -50px;
+  margin-left: 550px;
+}
